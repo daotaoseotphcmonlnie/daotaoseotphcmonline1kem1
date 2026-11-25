@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Đào Tạo SEO 1 Kèm 1 TP.HCM | Fame Media</title>
+<meta name="description" content="Fame Media đào tạo SEO 1 kèm 1 tại TP.HCM. Học SEO thực chiến, cầm tay chỉ việc, thực hành trên website thực tế từ cơ bản đến nâng cao.">
+<meta name="keywords" content="đào tạo SEO 1 kèm 1, đào tạo SEO thực chiến, khóa học SEO cầm tay chỉ việc, đào tạo SEO TP.HCM, đào tạo SEO Hồ Chí Minh">
+<link rel="canonical" href="https://daotaoseotphcm.online/">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Arial,sans-serif;color:#263247;line-height:1.7;background:#f7f9fc}
+a{text-decoration:none;color:inherit}
+.container{width:90%;max-width:1120px;margin:auto}
+header{background:#fff;padding:18px 0;border-bottom:1px solid #eee}
+nav{display:flex;justify-content:space-between;align-items:center;gap:20px}
+.logo{font-size:25px;font-weight:800;color:#1457c5}
+nav a{font-size:14px;margin-left:18px}
+.hero{background:linear-gradient(120deg,#102d62,#176bd2);color:white;padding:85px 0}
+.hero h1{font-size:40px;line-height:1.3;margin-bottom:20px}
+.hero p{font-size:18px;max-width:720px;margin-bottom:28px}
+.btn{display:inline-block;background:#ffb52e;color:#172b4d;padding:13px 25px;border-radius:7px;font-weight:bold}
+section{padding:65px 0}
+h2{font-size:29px;color:#164b9e;margin-bottom:20px}
+.intro{text-align:center;max-width:850px;margin:auto}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:30px}
+.card{background:white;padding:25px;border-radius:12px;box-shadow:0 5px 20px #102d6210}
+.card h3{color:#1657ac;margin-bottom:12px}
+.blue{background:#eaf2ff}
+ul{padding-left:22px}
+li{margin:8px 0}
+.cta{background:#143d7c;color:white;text-align:center;padding:55px 20px}
+.cta h2{color:white}
+footer{background:#102443;color:#dce6f5;padding:30px 0;text-align:center}
+.faq{background:white;padding:20px;margin:14px 0;border-radius:9px}
+.faq h3{color:#1555a5;margin-bottom:8px}
+@media(max-width:750px){
+ nav{flex-direction:column}
+ nav a{margin:5px}
+ .hero{padding:55px 0}
+ .hero h1{font-size:30px}
+ .grid{grid-template-columns:1fr}
+ h2{font-size:25px}
+}
+</style>
+</head>
+<body>
+
+<header>
+<div class="container">
+<nav>
+<a class="logo" href="#">FAME MEDIA</a>
+<div>
+<a href="#gioithieu">Giới thiệu</a>
+<a href="#khoahoc">Khóa học</a>
+<a href="#loiich">Lợi ích</a>
+<a href="#lienhe">Liên hệ</a>
+</div>
+</nav>
+</div>
+</header>
+
+<main>
+<section class="hero">
+<div class="container">
+<p>FAME MEDIA | ĐÀO TẠO SEO THỰC CHIẾN</p>
+<h1>Đào Tạo SEO 1 Kèm 1 – Cầm Tay Chỉ Việc, Học Đến Đâu Thực Hành Đến Đó</h1>
+<p>Bạn muốn tự SEO website, đưa từ khóa lên Google và chủ động tìm kiếm khách hàng? Fame Media hướng dẫn SEO trực tiếp trên website thực tế, từ kiến thức cơ bản đến chiến lược SEO nâng cao.</p>
+<a class="btn" href="#lienhe">Tìm hiểu khóa học</a>
+</div>
+</section>
+
+<section id="gioithieu">
+<div class="container intro">
+<h2>Giới Thiệu Đào Tạo SEO Fame Media</h2>
+<p>Fame Media cung cấp chương trình đào tạo SEO 1 kèm 1 tại TP.HCM dành cho người mới bắt đầu, chủ doanh nghiệp và nhân viên marketing. Chúng tôi tập trung vào phương pháp đào tạo SEO thực chiến, hướng dẫn trực tiếp và thực hành trên website của học viên.</p>
+<p>Mục tiêu là giúp bạn hiểu bản chất SEO, biết cách nghiên cứu từ khóa, tối ưu website và xây dựng chiến lược phát triển thứ hạng tìm kiếm bền vững.</p>
+</div>
+</section>
+
+<section class="blue" id="loiich">
+<div class="container">
+<h2 style="text-align:center">Tại Sao Nên Học SEO 1 Kèm 1?</h2>
+<div class="grid">
+<div class="card">
+<h3>Hướng dẫn cá nhân</h3>
+<p>Được hướng dẫn theo trình độ, mục tiêu và tình trạng website thực tế của từng học viên.</p>
+</div>
+<div class="card">
+<h3>Thực hành trực tiếp</h3>
+<p>Không chỉ học lý thuyết mà còn thực hành nghiên cứu từ khóa, tối ưu nội dung và website.</p>
+</div>
+<div class="card">
+<h3>Giải đáp cụ thể</h3>
+<p>Có cơ hội trao đổi, đặt câu hỏi và tìm hiểu cách xử lý những vấn đề SEO trong quá trình học.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="khoahoc">
+<div class="container">
+<h2>Nội Dung Khóa Học SEO Thực Chiến</h2>
+<p>Chương trình khóa học SEO cầm tay chỉ việc tại Fame Media tập trung vào những kiến thức cần thiết để triển khai một dự án SEO website.</p>
+<div class="grid">
+<div class="card">
+<h3>01. Nghiên cứu từ khóa</h3>
+<ul>
+<li>Phân tích từ khóa chính và phụ.</li>
+<li>Nghiên cứu Search Intent.</li>
+<li>Phân tích đối thủ cạnh tranh.</li>
+<li>Khai thác Phantom Keywords.</li>
+</ul>
+</div>
+<div class="card">
+<h3>02. SEO Onpage</h3>
+<ul>
+<li>Tối ưu Title và Meta Description.</li>
+<li>Xây dựng cấu trúc website.</li>
+<li>Viết bài chuẩn SEO.</li>
+<li>Liên kết nội bộ và Topic Cluster.</li>
+</ul>
+</div>
+<div class="card">
+<h3>03. Technical SEO</h3>
+<ul>
+<li>Sitemap và Robots.txt.</li>
+<li>Kiểm tra lỗi kỹ thuật.</li>
+<li>Tối ưu tốc độ website.</li>
+<li>Google Search Console.</li>
+</ul>
+</div>
+<div class="card">
+<h3>04. SEO Offpage</h3>
+<ul>
+<li>Kiến thức về Backlink.</li>
+<li>Phân tích liên kết.</li>
+<li>Entity SEO.</li>
+<li>Phát triển độ uy tín website.</li>
+</ul>
+</div>
+<div class="card">
+<h3>05. Semantic SEO</h3>
+<ul>
+<li>Xây dựng nội dung theo chủ đề.</li>
+<li>Phát triển từ khóa ngữ nghĩa.</li>
+<li>Entity và Topical Authority.</li>
+<li>Tối ưu Search Intent.</li>
+</ul>
+</div>
+<div class="card">
+<h3>06. Phân tích hiệu quả SEO</h3>
+<ul>
+<li>Theo dõi thứ hạng từ khóa.</li>
+<li>Đo lường Organic Traffic.</li>
+<li>Phân tích dữ liệu Google.</li>
+<li>Điều chỉnh chiến lược SEO.</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+
+<section class="blue">
+<div class="container">
+<h2>Khóa Học SEO Phù Hợp Với Ai?</h2>
+<div class="grid">
+<div class="card"><h3>Người mới bắt đầu</h3><p>Muốn học SEO từ cơ bản và hiểu cách Google hoạt động.</p></div>
+<div class="card"><h3>Chủ doanh nghiệp</h3><p>Muốn chủ động phát triển website và tiếp cận khách hàng từ Google.</p></div>
+<div class="card"><h3>Nhân viên Marketing</h3><p>Muốn nâng cao kỹ năng SEO và phát triển chuyên môn Digital Marketing.</p></div>
+</div>
+</div>
+</section>
+
+<section>
+<div class="container">
+<h2>Câu Hỏi Thường Gặp Về Đào Tạo SEO</h2>
+<div class="faq">
+<h3>Người chưa biết SEO có học được không?</h3>
+<p>Có. Chương trình có thể bắt đầu từ kiến thức nền tảng và hướng dẫn từng bước phù hợp với người mới.</p>
+</div>
+<div class="faq">
+<h3>Học SEO 1 kèm 1 có gì khác biệt?</h3>
+<p>Hình thức 1 kèm 1 tập trung vào nhu cầu riêng của học viên, tăng cơ hội thực hành và trao đổi trực tiếp.</p>
+</div>
+<div class="faq">
+<h3>Khóa học có thực hành trên website không?</h3>
+<p>Chương trình định hướng thực hành trực tiếp trên website để học viên hiểu cách triển khai SEO trong thực tế.</p>
+</div>
+<div class="faq">
+<h3>Học SEO tại TP.HCM ở đâu?</h3>
+<p>Bạn có thể tìm hiểu chương trình đào tạo SEO của Fame Media tại website daotaoseotphcm.online.</p>
+</div>
+</div>
+</section>
+
+<section class="cta" id="lienhe">
+<div class="container">
+<h2>Bắt Đầu Học SEO Thực Chiến Cùng Fame Media</h2>
+<p>Chủ động học SEO, làm chủ website và phát triển thương hiệu trên Google.</p>
+<p style="margin:20px 0"><strong>Website:</strong> daotaoseotphcm.online</p>
+<a class="btn" href="https://daotaoseotphcm.online/" target="_blank" rel="noopener">Truy cập website</a>
+</div>
+</section>
+</main>
+
+<footer>
+<div class="container">
+<p><strong>FAME MEDIA – ĐÀO TẠO SEO 1 KÈM 1</strong></p>
+<p>Đào tạo SEO thực chiến | Khóa học SEO cầm tay chỉ việc | Đào tạo SEO TP.HCM</p>
+<p>Website: https://daotaoseotphcm.online</p>
+</div>
+</footer>
+
+</body>
+</html>
